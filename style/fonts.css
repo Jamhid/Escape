@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'LB';
+    src: url('../fonts/Lora-Bold.ttf');
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'LR';
+    src: url('../fonts/Lora-Regular.ttf');
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'OB';
+    src: url('../fonts/Oxygen-Bold.ttf');
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'OR';
+    src: url('../fonts/Oxygen-Regular.ttf');
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'RR';
+    src: url('../fonts/Roboto-Regular.ttf');
+    font-style: normal;
+    font-weight: 400;
+}
